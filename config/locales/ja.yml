@@ -1,0 +1,15 @@
+---
+ja:
+  translate:
+    title: 題名
+    Memo: メモ
+    Author: 著者
+    Picture: 写真
+    Books: 書籍一覧
+    New_Book: 新規登録
+    Editing_Book: 書籍情報の編集
+    Back: 戻る
+    Show: 詳細
+    Edit: 編集
+    Destory: 削除
+    Books_App: 書籍アプリ
